@@ -86,8 +86,8 @@
                       <div class="card-container card-container-lg">
                         <h4>002/006</h4>
                         <h3>Helsa Alika Femiani</h3>
-                        <p>Student of Bandung State Polytechnic</p>
-                        <a href="./work2.html" title="" class="btn btn-default">Discover</a>
+                        <p>Proin pharetra metus id iaculis dignissim. In aliquet lorem ut ex ullamcorper.</p>
+                        <a href="./work.html" title="" class="btn btn-default">Discover</a>
                       </div>
                     </div>
                     <div class="col-sm-4">
@@ -96,9 +96,9 @@
                       </a>
                       <div class="card-container card-container-lg">
                         <h4>003/006</h4>
-                        <h3>Mentari Ayu Alysia S</h3>
-                        <p>Hello! I am a student from Bandung State Polytechnic with a D4 Informatics Engineering study program, click the button below for more information</p>
-                        <a href="./work3.html" title="" class="btn btn-default">Discover</a>
+                        <h3>Mentari Ayu Alysia Sudrajat</h3>
+                        <p>Fusce sed hendrerit augue, a rhoncus velit. In non lorem mattis, tempor sem sit amet.</p>
+                        <a href="./work.html" title="" class="btn btn-default">Discover</a>
                       </div>
                     </div>
                     
@@ -115,11 +115,7 @@
                     <div class="card-container">
                       <h4>004/006</h4>
                       <h3>Muhammad Rafi Farhan</h3>
-                      <p>211524051
-                          <br>
-                        1B-D4 
-                        <br>
-                      Informatics Engineering</p>
+                      <p>Proin pharetra metus id iaculis dignissim. In aliquet lorem ut ex ullamcorper.</p>
                       <a href="./work.html" class="btn btn-default">Discover</a>
                     </div>
                   </div>
@@ -130,8 +126,7 @@
                       <div class="card-container">
                         <h4>005/006</h4>
                         <h3>Rofa'ul Akrom Hendrawan</h3>
-                        <p>211534061</p>
-                        <p>D4 Informatics Engineering</p>
+                        <p>Nulla facilisi. Vivamus vestibulum, elit in scelerisque ultricies.</p>
                         <a href="./work.html" class="btn btn-default">Discover</a>
                       </div>
                     </div>
